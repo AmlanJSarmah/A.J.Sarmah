@@ -1,0 +1,33 @@
+baseURL: ""
+languageCode: en-us
+title: A.J.Sarmah
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "Hello World 👋"
+    Content: >
+          I am **A.J.Sarmah** !
+            
+            - I am a Linux System Programmer, studing AI/ML Engineering at **VIT Bhopal**, and an aspiring game developer.
+    
+            - I am currently working in a Austrian based land digitalization project called **Swupel PMS**, created my own startup called **Ideabazzar** and a passionate gave development stable **The Club**.
+  socialIcons:
+    - name: github
+      url: "https://github.com/AmlanJSarmah/"
+    - name: instagram
+      url: "https://instagram.com/amlan.j.sarmah/"
+    - name: twitter
+      url: "https://twitter.com/AmlanJSarmah/"
+
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
