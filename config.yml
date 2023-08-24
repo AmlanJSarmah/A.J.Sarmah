@@ -4,14 +4,36 @@ title: A.J.Sarmah
 theme: PaperMod
 
 params:
+
+  title: A.J.Sarmah
+  description: "A personal blog and portfolio of A.J.Sarmah, a linux system programmer, an hobbiest game dev and a student at VIT Bhopal University."
+  keywords: [Blog, Portfolio, Programming]
+  author: A.J.Sarmah
+  
+  profileMode:
+    enabled: true
+    title: "Hello World 👋"
+    subtitle: >
+            ### I am **A.J.Sarmah** !
+              I am a Linux System Programmer, studying AI/ML Engineering at **VIT Bhopal**, and an hobbiest game developer. I am currently working in a Austrian based land digitalization project called **Swupel PMS**, created my own startup called **Ideabazzar** and a passionate gave development stable **The Club**.
+    imageUrl: "images/dp.jpg"
+    imageWidth: 120
+    imageHeight: 120
+    buttons:
+      - name: Blogs
+        url: 
+      - name: Projects
+        url: 
+
   homeInfoParams:
     Title: "Hello World 👋"
     Content: >
           I am **A.J.Sarmah** !
             
-            - I am a Linux System Programmer, studying AI/ML Engineering at **VIT Bhopal**, and an aspiring game developer.
+            - I am a Linux System Programmer, studying AI/ML Engineering at **VIT Bhopal**, and an hobbiest game developer.
     
             - I am currently working in a Austrian based land digitalization project called **Swupel PMS**, created my own startup called **Ideabazzar** and a passionate gave development stable **The Club**.
+  
   socialIcons:
     - name: github
       url: "https://github.com/AmlanJSarmah/"
@@ -19,7 +41,6 @@ params:
       url: "https://instagram.com/amlan.j.sarmah/"
     - name: twitter
       url: "https://twitter.com/AmlanJSarmah/"
-
 
 menu:
   main:
