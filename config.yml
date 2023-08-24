@@ -6,7 +6,7 @@ theme: PaperMod
 params:
 
   title: A.J.Sarmah
-  description: "A personal blog and portfolio of A.J.Sarmah, a linux system programmer, an hobbiest game dev and a student at VIT Bhopal University."
+  description: "A personal blog and portfolio of A.J.Sarmah, a linux system programmer, a hobbiest game dev and a student at VIT Bhopal University."
   keywords: [Blog, Portfolio, Programming]
   author: A.J.Sarmah
   
@@ -15,7 +15,7 @@ params:
     title: "Hello World 👋"
     subtitle: >
             ### I am **A.J.Sarmah** !
-              I am a Linux System Programmer, studying AI/ML Engineering at **VIT Bhopal**, and an hobbiest game developer. I am currently working in a Austrian based land digitalization project called **Swupel PMS**, created my own startup called **Ideabazzar** and a passionate gave development stable **The Club**.
+              I am a Linux System Programmer, studying AI/ML Engineering at **VIT Bhopal**, and a hobbiest game developer. I am currently working in a Austrian based land digitalization project called **Swupel PMS**, co-founded my own startup called **Ideabazzar** and created a passionate gave development stable **The Club**.
     imageUrl: "images/dp.jpg"
     imageWidth: 120
     imageHeight: 120
@@ -30,11 +30,13 @@ params:
     Content: >
           I am **A.J.Sarmah** !
             
-            - I am a Linux System Programmer, studying AI/ML Engineering at **VIT Bhopal**, and an hobbiest game developer.
+            - I am a Linux System Programmer, studying AI/ML Engineering at **VIT Bhopal**, and a hobbiest game developer.
     
-            - I am currently working in a Austrian based land digitalization project called **Swupel PMS**, created my own startup called **Ideabazzar** and a passionate gave development stable **The Club**.
+            - I am currently working in a Austrian based land digitalization project called **Swupel PMS**, co-founded my own startup called **Ideabazzar** and a created passionate gave development stable **The Club**.
   
   socialIcons:
+    - name: email
+      url: "mailto:ajsarmah@tutanota.com"
     - name: github
       url: "https://github.com/AmlanJSarmah/"
     - name: instagram
@@ -44,11 +46,14 @@ params:
 
 menu:
   main:
+    - name: Search
+      url: search/
+      weight: 10
     - identifier: categories
       name: Categories
-      url: /categories/
-      weight: 10
+      url: 
+      weight: 20
     - identifier: tags
       name: Tags
-      url: /tags/
-      weight: 20
+      url: 
+      weight: 30
