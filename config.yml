@@ -39,6 +39,8 @@ params:
       url: "mailto:ajsarmah@tutanota.com"
     - name: github
       url: "https://github.com/AmlanJSarmah/"
+    - name: linkedin
+      url: "https://linkedin.com/in/amlan-jyoti-sarmah-0aa9b8290"
     - name: twitter
       url: "https://twitter.com/AmlanJSarmah/"
 
