@@ -15,7 +15,8 @@ params:
     title: "Hello World 👋"
     subtitle: >
             ### I am **A.J.Sarmah** !
-              I am a Linux System Programmer, studying AI/ML Engineering at **VIT Bhopal**, and a hobbiest game developer. I am currently working in a Austrian based land digitalization project called **Swupel PMS**, co-founded my own startup called **Ideabazzar** and created a passionate gave development stable **The Club**.
+              I have been a Linux System Programmer for a little over 3 years. Currently I am studying AI/ML Engineering at **VIT Bhopal University**, I am also an hobbyist game developer.    
+              I am currently working at an Austrian based land digitalization project called **Swupel PMS**, and have also co-founded my own startup called **Ideabazzar**.  
     imageUrl: "images/dp.jpg"
     imageWidth: 120
     imageHeight: 120
@@ -30,9 +31,9 @@ params:
     Content: >
           I am **A.J.Sarmah** !
             
-            - I am a Linux System Programmer, studying AI/ML Engineering at **VIT Bhopal**, and a hobbiest game developer.
+            - I have beem a Linux System Programmer for little over 3 years, Currently I am studying AI/ML Engineering at **VIT Bhopal University**, I am also a hobbyist game developer.
     
-            - I am currently working in a Austrian based land digitalization project called **Swupel PMS**, co-founded my own startup called **Ideabazzar** and a created passionate gave development stable **The Club**.
+            - I am currently working at an Austrian based land digitalization project called **Swupel PMS**, and have also co-founded my own startup called **Ideabazzar**.
   
   socialIcons:
     - name: email
