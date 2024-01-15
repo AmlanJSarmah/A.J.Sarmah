@@ -18,8 +18,8 @@ params:
               I have been a Linux System Programmer for a little over 3 years. Currently I am studying AI/ML Engineering at **VIT Bhopal University**, I am also an hobbyist game developer.    
               I am currently working at an Austrian based land digitalization project called **Swupel PMS**, and have also co-founded my own startup called **Ideabazzar**.  
     imageUrl: "images/dp.jpg"
-    imageWidth: 120
-    imageHeight: 120
+    imageWidth: 200
+    imageHeight: 200
     buttons:
       - name: Blogs
         url: 
@@ -42,8 +42,6 @@ params:
       url: "https://github.com/AmlanJSarmah/"
     - name: linkedin
       url: "https://linkedin.com/in/amlan-jyoti-sarmah-0aa9b8290"
-    - name: twitter
-      url: "https://twitter.com/AmlanJSarmah/"
 
 menu:
   main:
