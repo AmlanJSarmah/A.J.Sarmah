@@ -6,38 +6,26 @@ theme: PaperMod
 params:
 
   title: A.J.Sarmah
-  description: "A personal blog and portfolio of A.J.Sarmah, a linux system programmer, a hobbiest game dev and a student at VIT Bhopal University."
+  description: "A personal blog and portfolio of A.J.Sarmah, a linux system programmer, an aspiring ML Engineer and a student at VIT Bhopal University."
   keywords: [Blog, Portfolio, Programming]
   author: A.J.Sarmah
   
   profileMode:
     enabled: true
-    title: "Hello World 👋"
-    subtitle: >
-            ### I am **A.J.Sarmah** !
-              I have been a Linux System Programmer for a little over 3 years. Currently I am studying AI/ML Engineering at **VIT Bhopal University**, I am also an hobbyist game developer.    
-              I am currently working at an Austrian based land digitalization project called **Swupel PMS**, and have also co-founded my own startup called **Ideabazzar**.  
-    imageUrl: "images/dp.jpg"
-    imageWidth: 200
-    imageHeight: 200
+    title: "Amlan Jyoti (AJ) Sarmah"
+    subtitle: Welcome! I'm Amlan, a seasoned Linux Systems Programmer with four years of experience. Currently, I'm pursuing a degree in AI & ML Engineering at VIT Bhopal, driven by a passion for advancing technology. Additionally, I serve as a core team member and C++ blockchain developer at Swupel PMS. My journey is fueled by a commitment to excellence and a relentless pursuit of innovation in the fields of Linux programming and machine learning.
+    imageUrl: "images/dp.jpeg"
+    imageWidth: 275
+    imageHeight: 300
     buttons:
       - name: Blogs
         url: 
       - name: Projects
         url: 
 
-  homeInfoParams:
-    Title: "Hello World 👋"
-    Content: >
-          I am **A.J.Sarmah** !
-            
-            - I have beem a Linux System Programmer for little over 3 years, Currently I am studying AI/ML Engineering at **VIT Bhopal University**, I am also a hobbyist game developer.
-    
-            - I am currently working at an Austrian based land digitalization project called **Swupel PMS**, and have also co-founded my own startup called **Ideabazzar**.
-  
   socialIcons:
     - name: email
-      url: "mailto:ajsarmah@tutanota.com"
+      url: "mailto:amlan.j.sarmah@gmail.com"
     - name: github
       url: "https://github.com/AmlanJSarmah/"
     - name: linkedin
