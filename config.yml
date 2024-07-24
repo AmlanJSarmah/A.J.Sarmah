@@ -13,14 +13,12 @@ params:
   profileMode:
     enabled: true
     title: "Amlan Jyoti (AJ) Sarmah"
-    subtitle: Welcome! I'm Amlan, a seasoned Linux Systems Programmer with four years of experience. Currently, I'm pursuing a degree in AI & ML Engineering at VIT Bhopal, driven by a passion for advancing technology. Additionally, I serve as a core team member and C++ blockchain developer at Swupel PMS. My journey is fueled by a commitment to excellence and a relentless pursuit of innovation in the fields of Linux programming and machine learning.
-    imageUrl: "images/dp.jpeg"
-    imageWidth: 275
-    imageHeight: 300
+    subtitle: Hello 👋 I am Amlan Jyoti Sarmah, more commonly known as AJ. I have been programming for a little over 4 years. Mostly I work with Linux System Software, currently I am learning about Machine Learning and Web Development.  
+    imageUrl: "images/profile_picture.jpeg"
+    imageWidth: 250 
+    imageHeight: 250 
     buttons:
       - name: Blogs
-        url: 
-      - name: Projects
         url: 
 
   socialIcons:
@@ -30,6 +28,8 @@ params:
       url: "https://github.com/AmlanJSarmah/"
     - name: linkedin
       url: "https://linkedin.com/in/amlan-jyoti-sarmah-0aa9b8290"
+    - name: twitter
+      url: "https://x.com/AmlanJSarmah"
 
 menu:
   main:
