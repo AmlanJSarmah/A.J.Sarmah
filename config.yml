@@ -45,3 +45,7 @@ menu:
       name: Tags
       url:
       weight: 30
+
+caches:
+  images:
+    dir: :cacheDir/images
