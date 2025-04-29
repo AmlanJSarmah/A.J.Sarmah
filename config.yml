@@ -4,22 +4,23 @@ title: A.J.Sarmah
 theme: PaperMod
 
 params:
-
   title: A.J.Sarmah
   description: "A personal blog and portfolio of A.J.Sarmah, a linux system programmer, an aspiring ML Engineer and a student at VIT Bhopal University."
   keywords: [Blog, Portfolio, Programming]
   author: A.J.Sarmah
-  
+
   profileMode:
     enabled: true
     title: "Amlan Jyoti (AJ) Sarmah"
-    subtitle: Hello 👋 I am Amlan Jyoti Sarmah. I have been programming for a little over 4 years. Mostly I work with Linux System Software, currently I am learning about Machine Learning and Web Development.  
+    subtitle: "the taco bell chugging programmer :)\n
+
+      building cool software with swupel e.U."
     imageUrl: "images/profile_picture.jpeg"
-    imageWidth: 150 
-    imageHeight: 150 
+    imageWidth: 150
+    imageHeight: 150
     buttons:
       - name: Blogs
-        url: 
+        url:
 
   socialIcons:
     - name: email
@@ -28,6 +29,8 @@ params:
       url: "https://github.com/AmlanJSarmah/"
     - name: twitter
       url: "https://x.com/AmlanJSarmah"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/amlan-jyoti-sarmah/"
 
 menu:
   main:
@@ -36,9 +39,9 @@ menu:
       weight: 10
     - identifier: categories
       name: Categories
-      url: 
+      url:
       weight: 20
     - identifier: tags
       name: Tags
-      url: 
+      url:
       weight: 30
