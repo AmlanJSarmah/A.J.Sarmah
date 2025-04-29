@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blogs on A.J.Sarmah</title>
+    <link>http://localhost:1313/A.J.Sarmah/blogs/</link>
+    <description>Recent content in Blogs on A.J.Sarmah</description>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Aug 2023 00:47:58 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/A.J.Sarmah/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Swupel Pms</title>
+      <link>http://localhost:1313/A.J.Sarmah/blogs/swupel-pms/</link>
+      <pubDate>Fri, 25 Aug 2023 00:47:58 +0530</pubDate>
+      <guid>http://localhost:1313/A.J.Sarmah/blogs/swupel-pms/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
